@@ -8,6 +8,7 @@ A collection of LeetCode questions
 | ------- |
 | [0053-maximum-subarray](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1331-rank-transform-of-an-array](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
