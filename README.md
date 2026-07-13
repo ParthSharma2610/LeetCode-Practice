@@ -49,4 +49,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
