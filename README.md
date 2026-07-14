@@ -53,4 +53,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1291-sequential-digits) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
