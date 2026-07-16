@@ -9,10 +9,12 @@ A collection of LeetCode questions
 | [0053-maximum-subarray](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1331-rank-transform-of-an-array](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -61,8 +64,14 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
