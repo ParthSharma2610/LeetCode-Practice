@@ -9,6 +9,7 @@ A collection of LeetCode questions
 | [0053-maximum-subarray](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1331-rank-transform-of-an-array](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3312-sorted-gcd-pair-queries](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -63,15 +66,29 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
