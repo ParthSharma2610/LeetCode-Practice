@@ -94,4 +94,20 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+## String
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
