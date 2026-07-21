@@ -61,6 +61,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Linked List
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
