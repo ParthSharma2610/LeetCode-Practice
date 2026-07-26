@@ -8,6 +8,7 @@ A collection of LeetCode questions
 | ------- |
 | [0053-maximum-subarray](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
