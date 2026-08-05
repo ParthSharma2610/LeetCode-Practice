@@ -48,10 +48,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
 ## Hash Table
 |  |
 | ------- |
