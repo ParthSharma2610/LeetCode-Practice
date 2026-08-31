@@ -123,6 +123,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
 | ------- |
