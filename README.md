@@ -62,6 +62,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1406-stone-game-iii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
