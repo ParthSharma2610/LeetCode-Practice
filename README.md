@@ -65,6 +65,7 @@ A collection of LeetCode questions
 | [0115-distinct-subsequences](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
