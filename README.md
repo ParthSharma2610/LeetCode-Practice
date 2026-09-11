@@ -72,6 +72,7 @@ A collection of LeetCode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -307,4 +308,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2029-stone-game-ix) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
