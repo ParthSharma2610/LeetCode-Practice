@@ -10,6 +10,7 @@ A collection of LeetCode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0486-predict-the-winner](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Segment Tree
