@@ -101,6 +101,7 @@ A collection of LeetCode questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions
 | [0022-generate-parentheses](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
