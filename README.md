@@ -8,6 +8,7 @@ A collection of LeetCode questions
 | ------- |
 | [0053-maximum-subarray](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0835-image-overlap) |
@@ -101,12 +102,14 @@ A collection of LeetCode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
@@ -332,6 +336,7 @@ A collection of LeetCode questions
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
