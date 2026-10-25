@@ -13,6 +13,7 @@ A collection of LeetCode questions
 | [0628-maximum-product-of-three-numbers](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0877-stone-game) |
+| [1254-number-of-closed-islands](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions
 | [0200-number-of-islands](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
@@ -355,6 +359,7 @@ A collection of LeetCode questions
 | ------- |
 | [0200-number-of-islands](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ParthSharma2610/LeetCode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
